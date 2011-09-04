@@ -1,0 +1,17 @@
+{
+  "author": "Dmitry Unkovsky <oil.crayons@gmail.com>",
+  "name": "nobj",
+  "description": "ubersimple prototypal inheritance with reference to Io language",
+  "version": "0.0.1",
+  "homepage": "http://nojs.be",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nojs/nobj.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.4"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
